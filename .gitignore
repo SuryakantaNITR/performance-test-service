@@ -1,0 +1,49 @@
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+docs/
+sonar-project.properties
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Java class files 
+*.class 
+
+
+# Eclipse project files 
+.classpath 
+.project 
+.settings/ 
+
+
+#Gradle 
+.gradletasknamecache 
+.gradle/ 
+build/ 
+bin/
+gradle/
+gradlew
+gradlew.bat
+
+#log
+log
