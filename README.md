@@ -20,7 +20,7 @@ java -jar performance-test-0.0.1-SNAPSHOT.jar
 Request URL: http://localhost:4545/metrics-service/metrics/get
 Type: GET
 ```
-* Sample Response
+* Sample Response - Response time in ms
 ```json
 {
     "Mean": 347,
