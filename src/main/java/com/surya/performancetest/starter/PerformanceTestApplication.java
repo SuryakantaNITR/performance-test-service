@@ -9,8 +9,6 @@ import org.springframework.context.annotation.ComponentScan;
 public class PerformanceTestApplication {
 
 	public static void main(String[] args) {
-		System.setProperty("spring.config.location", "/config");
-	    System.setProperty("spring.config.name", "config");
 		SpringApplication.run(PerformanceTestApplication.class, args);
 	}
 }
